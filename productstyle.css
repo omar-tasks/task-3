@@ -1,0 +1,57 @@
+body {
+    background-color: bisque;
+}
+
+.welcome-pic {
+   width: 1200px;
+   height: 300px;
+   border-radius: 600px;
+   margin-left: 50px;
+   margin-right: auto;
+}
+
+h2 {
+    text-align: center;
+    font-style: italic;
+    font-weight: bolder;
+    font-size: 50px;
+    text-shadow: 5px 5px 10px #5e0404;
+
+}
+
+img {
+    width: 350px;
+    height: 240px;
+}
+
+.img-container {
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin: auto;
+}
+
+p {
+    font-size: larger;
+    font-weight: bolder;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+article {
+    font-size: large;
+    font-weight: bold;
+    font-style: italic;
+    color: rgb(189, 24, 24);
+}
+
+.head{
+    background-color: whitesmoke;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin: auto;
+}
+
+
+

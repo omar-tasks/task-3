@@ -1,0 +1,55 @@
+body {
+    background-color: darkgray;
+}
+
+h3 {
+    font-size: 26px;
+    font-style: oblique;
+}
+
+h1 { 
+    font-size: 50px;
+    font-style: italic;
+    text-align: center;
+    color: darkred;
+    border: solid;
+}
+
+img {
+    display: block;
+    margin-bottom: auto;
+    margin-right: auto;
+    width: auto;
+}
+
+div {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin: auto;
+    font-size: larger;
+    font-weight: bolder;
+    color: red;
+}
+
+h3 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bolder;
+    color: rgb(49, 13, 13);
+}
+
+h3:hover {
+    background-color: blue;
+}
+
+p {
+    font-size: larger;
+}
+
+.header{
+    background-color: whitesmoke;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin: auto;
+}
